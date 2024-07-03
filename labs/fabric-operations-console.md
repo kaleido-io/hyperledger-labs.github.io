@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Fabric Operations Console
-parent: labs
+parent: Labs
 ---
 # Lab Name
-Fabric Operations Console
+[Fabric Operations Console](https://github.com/hyperledger-labs/fabric-operations-console)
 
 # Short Description
 Hyperledger Fabric Operations Console code used in the IBM Blockchain Platform Offering.

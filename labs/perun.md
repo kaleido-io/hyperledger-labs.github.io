@@ -4,7 +4,17 @@ title: Perun
 parent: Labs
 ---
 # Lab Name
-Perun
+[Perun](https://github.com/hyperledger-labs/go-perun)
+
+* [perun-eth-backend](https://github.com/hyperledger-labs/perun-eth-backend)
+* [perun-node](https://github.com/hyperledger-labs/perun-node)
+* [perun-rs](https://github.com/hyperledger-labs/perun-rs)
+* [perun-credential-payment](https://github.com/hyperledger-labs/perun-credential-payment)
+* [perun-eth-contracts](https://github.com/hyperledger-labs/perun-eth-contracts)
+* [perun-cosmwasm-contract](https://github.com/hyperledger-labs/perun-cosmwasm-contract)
+* [perun-doc](https://github.com/hyperledger-labs/perun-doc)
+* [perun-cosmwasm-backend](https://github.com/hyperledger-labs/perun-cosmwasm-backend)
+* [perun-proposals](https://github.com/hyperledger-labs/perun-proposals)
 
 # Short Description
 
@@ -12,9 +22,11 @@ Blockchain-agnostic State Channels framework.
 
 # Scope of Lab
 
+
+
 The Perun framework is a suite of implementations around the [Perun state
 channel protocols](https://perun.network/) ([introduction
-paper](https://perun.network/pdf/Perun2.0.pdf)). The Perun protocols provide
+paper](https://perun.network/wp-content/uploads/Perun2.0.pdf)). The Perun protocols provide
 payment and general state channel functionality to all existing blockchains
 that feature smart contracts. As a blockchain scalability solution, payment
 and state channels reduce transaction costs and increase the system throughput

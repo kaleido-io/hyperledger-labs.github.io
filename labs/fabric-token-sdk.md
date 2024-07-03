@@ -5,7 +5,7 @@ parent: Labs
 ---
 # Lab Name
 
-Hyperledger Fabric Token SDK
+[Hyperledger Fabric Token SDK](https://github.com/hyperledger-labs/fabric-token-sdk)
 
 # Short Description
 
@@ -42,11 +42,11 @@ For the driver implementation supporting privacy via Zero Knowledge, we will fol
 
 # Initial Committers
 
-- [Elli Androulaki](`https://github.com/elli-androulaki`)
-- [Angelo De Caro](`https://github.com/adecaro`)
-- [Kaoutar Elkhiyaoui](`https://github.com/KElkhiyaoui`)
-- [Mathilde Ffrench](`https://github.com/mffrench`)
-- [Alessandro Sorniotti](`https://github.com/ale-linux`)
+- [Elli Androulaki](https://github.com/elli-androulaki)
+- [Angelo De Caro](https://github.com/adecaro)
+- [Kaoutar Elkhiyaoui](https://github.com/KElkhiyaoui)
+- [Mathilde Ffrench](https://github.com/mffrench)
+- [Alessandro Sorniotti](https://github.com/ale-linux)
 
 # Sponsor
 
